@@ -32,7 +32,8 @@ You can find them linked in lessons, or head to their [homepage](https://www.cod
 
 ### Docs
 
-Cheatsheets are a handy companion for consuming coursework, but when coding in the real world, programmers need documentation. <br>
+Cheatsheets are a handy companion for consuming coursework, <br>
+but when coding in the real world, programmers need documentation. <br>
 With [Docs](https://www.codecademy.com/resources/docs), you have an entirely open-source, free reference material to cover far more than a course can.
 
 <img src="./assets/Introducing-Docs---Your-New-Go-To-Resource-for-All-Things-Programming-1.gif" alt="Docs Image" width="600" height="300">
@@ -40,7 +41,7 @@ With [Docs](https://www.codecademy.com/resources/docs), you have an entirely ope
 ### Learn What to Learn
 
 Not certain what language to pick up or what career path to choose? <br>
-Flick through the [Learn What to Learn course](https://www.codecademy.com/learn/learn-what-to-learn),
+Flick through the [Learn What to Learn course](https://www.codecademy.com/learn/learn-what-to-learn), <br>
 where we’ve consolidated the best resources to help you make a choice with confidence. <br>
 An hour of planning now could save you days of wasted effort later.
 
@@ -63,19 +64,20 @@ Ask questions, stay connected, and find motivation with multiple communal experi
 ### Video Library
 
 Need a break from the IDE but still want to be productive? <br>
-Watch hundreds of educational and motivational video content on everything from basic coding concepts to career advice, <br>
-all on-topic and [on-platform](https://www.codecademy.com/resources/videos).
+Watch hundreds of educational and motivational video content on everything <br>
+from basic coding concepts to career advice, all on-topic and [on-platform](https://www.codecademy.com/resources/videos).
 
 ## Paid Features
 
-If you want to supercharge your learning, a paid plan may be right for you — here are some of our most popular paid features.
+If you want to supercharge your learning, <br>
+a paid plan may be right for you — here are some of our most popular paid features.
 
 <img src="./assets/Social-Media-Networking-Tips-Thumb-1024x476.png" alt="Upgrade Skills" width="600" height="300">
 
 ### Paths
 
 [Skill Paths](https://www.codecademy.com/catalog/all) and [Career Paths](https://www.codecademy.com/learn/paths/new) are step-by-step roadmaps
-that take you through what you need to learn a specific skill or transition to a specific career in tech. <br>
+that take you through <br> what you need to learn a specific skill or transition to a specific career in tech. <br>
 They’ll tell you what to learn and in what order, cutting out the guesswork and to the chase. <br>
 Career Paths cover everything that you’ll find in a $15,000 boot camp curriculum, plus more, <br>
 and you can team up to tackle them with a [cohort group](https://www.codecademy.com/resources/blog/career-path-groups/). <br>
@@ -85,10 +87,12 @@ Pro learners also get access to Interview Prep Skill Paths.
 
 ### Projects, Challenge Projects, and Portfolio Projects
 
-As you learn, you’ll work on guided projects to put the things you’re learning to use. You’ll find a variety of project types. <br>
-Some offer step-by-step guidance while others offer more of a challenge by only describing the final outcome of the project. <br>
+As you learn, you’ll work on guided projects to put the things you’re learning to use. <br>
+You’ll find a variety of project types. <br>
+Some offer step-by-step guidance while others offer more of a challenge <br> by only describing the final outcome of the project. <br>
 If you take a Path, you’ll build your own [Portfolio Projects](https://www.codecademy.com/resources/blog/portfolio-projects-in-career-paths/) as well, designed to simulate professional coding tasks. <br>
-The solutions to these portfolio projects will be unique to you! Check out all the projects available to you via the [Projects Library](https://www.codecademy.com/projects).
+The solutions to these portfolio projects will be unique to you! <br>
+Check out all the projects available to you via the [Projects Library](https://www.codecademy.com/projects).
 
 <img src="./assets/kanban.gif" alt="Gif of a kanban project" width="600" height="300">
 
@@ -111,7 +115,8 @@ by using spaced repetition — a [scientifically proven](https://www.codecademy.
 ### Quizzes
 
 Test yourself as you make your way through a Path or course. <br>
-Quizzes help you retain all the things you’re learning — plus, they’ll help you feel confident that you’re mastering the material.
+Quizzes help you retain all the things you’re learning — plus, <br>
+they’ll help you feel confident that you’re mastering the material.
 
 ### Certificates
 
@@ -126,8 +131,8 @@ In these paths, you’ll earn a professional certification for passing all of th
 ### Code Challenges
 
 With technical interviews (and coding in general), practice makes perfect. <br>
-Now, you can practice real code challenges from actual interviews to see how your skills stack up, or just solve them for fun. <br>
-If you get stuck, we’ll point you to what you still need to learn. <br>
+Now, you can practice real code challenges from actual interviews to see how your skills stack up, <br>
+or just solve them for fun. If you get stuck, we’ll point you to what you still need to learn. <br>
 Code challenges are available with Pro.
 
 ## Conclusion
