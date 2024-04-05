@@ -8,7 +8,8 @@ If you want to be best set up for success, this guide is for you.
 
 ## Valuable Resources
 
-There are hundreds of hours of free content on Codecademy, and thousands of hours of material available with our paid plans; <br>
+There are hundreds of hours of free content on Codecademy, <br>
+and thousands of hours of material available with our paid plans; <br>
 but no matter your membership level, the key to success is learning intelligently. <br>
 If you build the habits to use our features, it will be easier for you to master technical skills.
 
@@ -28,7 +29,9 @@ Not sure what to make? Grab code from your coursework and use it as a template.
 
 Coding is less about memorization and more about understanding principles; <br>
 cheatsheets help you quickly refresh your memory and get back to work. <br>
-You can find them linked in lessons, or head to their [homepage](https://www.codecademy.com/resources/cheatsheets/all) to find them all, broken down by the course section in which you learned them.
+You can find them linked in lessons, <br>
+or head to their [homepage](https://www.codecademy.com/resources/cheatsheets/all) to find them all,
+broken down by the course section in which you learned them.
 
 ### Docs
 
